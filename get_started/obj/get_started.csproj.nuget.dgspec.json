@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/testus/svn/csharp_learning/get_started/SimpleCalculator/SimpleCalculator.csproj": {}
+    "/home/testus/svn/csharp_learning/get_started/get_started.csproj": {}
   },
   "projects": {
-    "/home/testus/svn/csharp_learning/get_started/SimpleCalculator/SimpleCalculator.csproj": {
+    "/home/testus/svn/csharp_learning/get_started/get_started.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/testus/svn/csharp_learning/get_started/SimpleCalculator/SimpleCalculator.csproj",
-        "projectName": "SimpleCalculator",
-        "projectPath": "/home/testus/svn/csharp_learning/get_started/SimpleCalculator/SimpleCalculator.csproj",
+        "projectUniqueName": "/home/testus/svn/csharp_learning/get_started/get_started.csproj",
+        "projectName": "get_started",
+        "projectPath": "/home/testus/svn/csharp_learning/get_started/get_started.csproj",
         "packagesPath": "/home/testus/.nuget/packages/",
-        "outputPath": "/home/testus/svn/csharp_learning/get_started/SimpleCalculator/obj/",
+        "outputPath": "/home/testus/svn/csharp_learning/get_started/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/testus/.nuget/NuGet/NuGet.Config"
@@ -32,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/testus/.dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
