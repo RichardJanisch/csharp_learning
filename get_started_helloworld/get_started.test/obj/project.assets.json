@@ -5518,24 +5518,31 @@
     ]
   },
   "packageFolders": {
-    "/home/testus/.nuget/packages/": {}
+    "C:\\Users\\richardjanisch\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/testus/svn/csharp_learning/get_started.test/get_started.test.csproj",
+      "projectUniqueName": "C:\\Users\\richardjanisch\\svn\\csharp_learning\\get_started_helloworld\\get_started.test\\get_started.test.csproj",
       "projectName": "get_started.test",
-      "projectPath": "/home/testus/svn/csharp_learning/get_started.test/get_started.test.csproj",
-      "packagesPath": "/home/testus/.nuget/packages/",
-      "outputPath": "/home/testus/svn/csharp_learning/get_started.test/obj/",
+      "projectPath": "C:\\Users\\richardjanisch\\svn\\csharp_learning\\get_started_helloworld\\get_started.test\\get_started.test.csproj",
+      "packagesPath": "C:\\Users\\richardjanisch\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\richardjanisch\\svn\\csharp_learning\\get_started_helloworld\\get_started.test\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/testus/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\richardjanisch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5548,6 +5555,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -5586,12 +5598,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.5, 8.0.5]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.5, 8.0.5]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.5, 8.0.5]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.5.24307.3/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
