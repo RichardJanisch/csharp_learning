@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FhdEl4Wi2SA=",
+  "dgSpecHash": "dbTljwCF1wS16UuYNSDTJDIxd5tJDmix4WcdMdQbv+NlQKwv0xGtHRmNcs/VOr+mdFw87x667tP/5UrDoyoXLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\richardjanisch\\svn\\csharp_learning\\get_started_helloworld\\get_started\\get_started.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\richardjanisch\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.5\\microsoft.netcore.app.ref.8.0.5.nupkg.sha512",
-    "C:\\Users\\richardjanisch\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.5\\microsoft.windowsdesktop.app.ref.8.0.5.nupkg.sha512",
-    "C:\\Users\\richardjanisch\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.5\\microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512",
-    "C:\\Users\\richardjanisch\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\8.0.5\\microsoft.netcore.app.host.win-arm64.8.0.5.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/testus/svn/csharp_learning/get_started_helloworld/get_started/get_started.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
