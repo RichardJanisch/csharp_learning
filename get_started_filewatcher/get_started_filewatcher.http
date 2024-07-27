@@ -1,0 +1,6 @@
+@get_started_filewatcher_HostAddress = http://localhost:5298
+
+GET {{get_started_filewatcher_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
