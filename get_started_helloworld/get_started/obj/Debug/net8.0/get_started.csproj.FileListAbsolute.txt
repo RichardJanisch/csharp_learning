@@ -1,0 +1,15 @@
+/home/testus/svn/csharp_learning/get_started_helloworld/get_started/bin/Debug/net8.0/get_started
+/home/testus/svn/csharp_learning/get_started_helloworld/get_started/bin/Debug/net8.0/get_started.deps.json
+/home/testus/svn/csharp_learning/get_started_helloworld/get_started/bin/Debug/net8.0/get_started.runtimeconfig.json
+/home/testus/svn/csharp_learning/get_started_helloworld/get_started/bin/Debug/net8.0/get_started.dll
+/home/testus/svn/csharp_learning/get_started_helloworld/get_started/bin/Debug/net8.0/get_started.pdb
+/home/testus/svn/csharp_learning/get_started_helloworld/get_started/obj/Debug/net8.0/get_started.GeneratedMSBuildEditorConfig.editorconfig
+/home/testus/svn/csharp_learning/get_started_helloworld/get_started/obj/Debug/net8.0/get_started.AssemblyInfoInputs.cache
+/home/testus/svn/csharp_learning/get_started_helloworld/get_started/obj/Debug/net8.0/get_started.AssemblyInfo.cs
+/home/testus/svn/csharp_learning/get_started_helloworld/get_started/obj/Debug/net8.0/get_started.csproj.CoreCompileInputs.cache
+/home/testus/svn/csharp_learning/get_started_helloworld/get_started/obj/Debug/net8.0/get_started.sourcelink.json
+/home/testus/svn/csharp_learning/get_started_helloworld/get_started/obj/Debug/net8.0/get_started.dll
+/home/testus/svn/csharp_learning/get_started_helloworld/get_started/obj/Debug/net8.0/refint/get_started.dll
+/home/testus/svn/csharp_learning/get_started_helloworld/get_started/obj/Debug/net8.0/get_started.pdb
+/home/testus/svn/csharp_learning/get_started_helloworld/get_started/obj/Debug/net8.0/get_started.genruntimeconfig.cache
+/home/testus/svn/csharp_learning/get_started_helloworld/get_started/obj/Debug/net8.0/ref/get_started.dll

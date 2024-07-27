@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gnBfIvcBaePcyF7pk24V6DVoqNb/x7rQ0/mwErEOHjfM8SGPushhD1RFdRPTYmvsvMgYW1By/GkkOM3esISOBQ==",
+  "dgSpecHash": "TIcMzdpB6xeMXoedW6YzIPfXxVFShMExPZFyTQDLElvj/v2zkc2m0RlK4TRZ8nnmmERW22AG3PzvxTguMCBDWg==",
   "success": true,
   "projectFilePath": "/home/testus/svn/csharp_learning/get_started_helloworld/get_started.test/get_started.test.csproj",
   "expectedPackageFiles": [

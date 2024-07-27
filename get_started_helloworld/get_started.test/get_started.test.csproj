@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\get_started\get_started.csproj" />
+  </ItemGroup>
+
 </Project>
